@@ -1,0 +1,55 @@
+@charset "iso-8859-9";
+/* CSS Document */
+
+.TabbedPanelsContentGroup {
+	clear: both;
+	background:url(../images/contentBg.gif) white top repeat-x;
+	padding:5px;
+	padding-top:15px;
+
+}
+#kayitContent .formZone{
+	width:439px;
+	position:absolute;
+	top:52px;
+	left:0;
+	height:394px;
+	padding:20px 28px;
+	background:#fafafa;}
+#kayitContent{
+	margin-top:8px;
+	width:960px;
+	height:485px;
+	position:relative;
+}
+#kayitContent .formAciklama{
+	width:405px;
+	color:#340c00;
+	font-size:12px;
+	line-height:20px;
+	position:absolute;
+	top:52px;
+	right:0;
+	height:394px;
+	padding:20px 28px;
+	background:#f6f6f6
+}
+.TabbedPanelsContent3 {
+	line-height:18px;
+	height:306px;
+	font-size:12px;
+}
+.TabbedPanelsContent {
+
+	line-height:18px;
+	height:386px;
+	font-size:12px;
+}
+.VTabbedPanels .TabbedPanelsTabGroup {
+	float: left;
+	width: 10em;
+
+	background-color: #EEE;
+	position: relative;
+
+}
